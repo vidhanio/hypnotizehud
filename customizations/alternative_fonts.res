@@ -15,11 +15,11 @@
 //#base "../resource/scheme/alternative_fonts/fonts_lato.res"			// LATO
 //#base "../resource/scheme/alternative_fonts/fonts_neutra.res"			// NEUTRA
 //#base "../resource/scheme/alternative_fonts/fonts_nexa.res"			// NEXA
-//#base "../resource/scheme/alternative_fonts/fonts_product.res"		// PRODUCT
+#base "../resource/scheme/alternative_fonts/fonts_product.res"		// PRODUCT
 //#base "../resource/scheme/alternative_fonts/fonts_quake.res"			// QUAKE
 //#base "../resource/scheme/alternative_fonts/fonts_renogare.res"		// RENOGARE
 //#base "../resource/scheme/alternative_fonts/fonts_roboto.res"			// ROBOTO
 //#base "../resource/scheme/alternative_fonts/fonts_rubik.res"			// RUBIK
 //#base "../resource/scheme/alternative_fonts/fonts_surface.res"		// SURFACE
 //#base "../resource/scheme/alternative_fonts/fonts_tf2.res"			// TF2
-#base "../resource/scheme/alternative_fonts/fonts_berkeley_mono.res"		// BERKELEY MONO
+//#base "../resource/scheme/alternative_fonts/fonts_berkeley_mono.res"	// BERKELEY MONO
