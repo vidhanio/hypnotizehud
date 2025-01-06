@@ -19,7 +19,6 @@
 //#base "../resource/scheme/alternative_fonts/fonts_quake.res"			// QUAKE
 //#base "../resource/scheme/alternative_fonts/fonts_renogare.res"		// RENOGARE
 //#base "../resource/scheme/alternative_fonts/fonts_roboto.res"			// ROBOTO
-//#base "../resource/scheme/alternative_fonts/fonts_rubik.res"			// RUBIK
+#base "../resource/scheme/alternative_fonts/fonts_rubik.res"			// RUBIK
 //#base "../resource/scheme/alternative_fonts/fonts_surface.res"		// SURFACE
 //#base "../resource/scheme/alternative_fonts/fonts_tf2.res"			// TF2
-#base "../resource/scheme/alternative_fonts/fonts_berkeley_mono.res"		// BERKELEY MONO
